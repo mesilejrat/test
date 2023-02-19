@@ -5,7 +5,7 @@ let anwer = "";
 myButton.addEventListener("click", function() {
   const buttonText = myButton.textContent;
 
-  anwer +=  + "  Budva ----- ";
+  anwer += "  Budva ----- ";
   console.log(buttonText);
 });
 
