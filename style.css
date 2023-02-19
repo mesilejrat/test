@@ -1,0 +1,54 @@
+.container {
+  background: linear-gradient(to right, #0072ff, #00c6ff, #f0ff00, #ff7f00);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-blue {
+  background-color: #0072ff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-indent: -9999px; /* Shifts the text outside the visible area of the button */
+  font-size: 0; /* Sets the text size to 0 */
+
+}
+
+.button-yellow {
+  background-color: #f0ff00;
+  color: #000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-indent: -9999px; /* Shifts the text outside the visible area of the button */
+  font-size: 0; /* Sets the text size to 0 */
+}
+
+.vendi {
+  margin-top: 250px;
+}
+
+
+.hoteli {
+  margin-top: 250px;
+}
+
+
+.dhurata {
+  margin-top: 250px;
+}
+
+#show {
+  margin-top: 250px;
+}
+
+#answer {
+  margin-top: 250px;
+}
