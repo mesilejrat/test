@@ -1,0 +1,25 @@
+.container {
+  background: linear-gradient(to right, #0072ff, #00c6ff, #f0ff00, #ff7f00);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.button-blue {
+  background-color: #0072ff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-yellow {
+  background-color: #f0ff00;
+  color: #000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
