@@ -5,7 +5,7 @@ let anwer = "";
 myButton.addEventListener("click", function() {
   const buttonText = myButton.textContent;
 
-  anwer += "  Budva ----- ";
+  anwer += " Vendi qe do shkojme eshte :  Budva ----- ";
   console.log(buttonText);
 });
 
@@ -14,7 +14,7 @@ let second = document.getElementById("Dubrovnik");
 
 second.addEventListener("click", function() {
   const buttonText = second.textContent;
-  anwer +=" Dubrovnik  ----- ";
+  anwer +=" Vendi qe do shkojme eshte : Dubrovnik  ----- ";
   console.log(buttonText);
 });
 
@@ -25,7 +25,7 @@ let yje4 = document.getElementById("3");
 
 yje4.addEventListener("click", function() {
   const buttonText = yje4.textContent;
-  anwer +="  3 yje hoteli ----- ";
+  anwer +=" Hoteli qe do rrime eshte : 3 yje hoteli ----- ";
   console.log(buttonText);
 });
 
@@ -36,7 +36,7 @@ let yje6 = document.getElementById("5");
 
 yje6.addEventListener("click", function() {
   const buttonText = yje6.textContent;
-  anwer +="  5 yje hoteli ----- ";
+  anwer +=" Hoteli qe do rrime eshte : 5 yje hoteli ----- ";
   console.log(buttonText);
 });
 
@@ -45,7 +45,7 @@ let cante = document.getElementById("cante");
 
 cante.addEventListener("click", function() {
   const buttonText = cante.textContent;
-  anwer +="   Cante + make up ----- ";
+  anwer +=" Dhurate qe do te te bej une eshte :   Cante + make up ----- ";
   console.log(buttonText);
 });
 
@@ -54,7 +54,7 @@ let karikues = document.getElementById("karikues");
 
 karikues.addEventListener("click", function() {
   const buttonText = karikues.textContent;
-  anwer +="   karikues ----- ";
+  anwer +=" Dhurate qe do te te bej une eshte :   karikues ----- ";
   console.log(buttonText);
 });
 
